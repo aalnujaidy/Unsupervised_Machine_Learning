@@ -16,6 +16,6 @@ The goal of this project was to use natural language processing to analyze disas
 
 [Abdulla Alnujaidy](https://github.com/hush9)
 
-[Samer Atwi](https://github.com/)
+[Samer Atwi](https://github.com/SamerAtwi)
 
 [Omran Fallatah](https://github.com/omran302)
