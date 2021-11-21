@@ -8,7 +8,7 @@ The goal of this project was to use natural language processing to analyze disas
 
 -   [Project Proposal](Proposal.ipynb)
 -   [Model](NLP_PROJECT.ipynb)
--   [Slides](Unsupervised project.pdf)
+-   [Slides](Unsupervised_project.pdf)
 -   [Writeup](Writeup.md)
 
 
