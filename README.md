@@ -14,7 +14,7 @@ The goal of this project was to use natural language processing to analyze disas
 
 ### contributors:
 
-[Abdulla Alnujaidy](https://github.com/hush9)
+[Abdulla Alnujaidy](https://github.com/aalnujaidy)
 
 [Samer Atwi](https://github.com/SamerAtwi)
 
