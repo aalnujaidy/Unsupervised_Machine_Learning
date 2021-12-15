@@ -1,3 +1,4 @@
+
 # Unsupervised_Machine_Learning
 
 
@@ -14,7 +15,7 @@ The goal of this project was to use natural language processing to analyze disas
 
 ### contributors:
 
-[Abdulla Alnujaidy](https://github.com/aalnujaidy)
+[Abdalla Alnujaidy](https://github.com/aalnujaidy)
 
 [Samer Atwi](https://github.com/SamerAtwi)
 
